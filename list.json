@@ -31,7 +31,7 @@
   
   "Staff Panel": [],
 
-  "MeatyMeteorEnabled":false,
+  "World Events Enabled": {"MeatyMeteor": false},
 
   "Cursed Child Boss Moves": [242509995,  166263406, 1619808174, 1242679803, 141123572, 265094988],
 
